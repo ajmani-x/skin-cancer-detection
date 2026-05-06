@@ -1,4 +1,4 @@
-# 🧬 Skin Cancer Classification
+# Skin Cancer Classification
 
 A **Streamlit web app** that classifies skin lesion images as **Benign** or **Malignant** using a Convolutional Neural Network (CNN).
 
